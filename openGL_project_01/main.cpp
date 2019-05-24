@@ -3,6 +3,8 @@
 
 int main() 
 {
+
+	//ORIGIN MASTER
 	glfwInit();
 
 	glm::vec3(0.f);
