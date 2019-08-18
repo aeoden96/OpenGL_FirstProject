@@ -1,12 +1,12 @@
 #pragma once
 
 #include <iostream>
-
-//MUST BE IMPORTED BEFORE GLFW
-#include <glew.h>
-
+#include <fstream>
+#include <istream>
+#include <string>
+#include <vector>
+#include <glew.h>//MUST BE IMPORTED BEFORE GLFW
 #include <glfw3.h>
-
 #include <glm.hpp>
 
 #include <vec2.hpp>
