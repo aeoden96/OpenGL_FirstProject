@@ -15,7 +15,7 @@ void framebuffer_resize_callback(GLFWwindow* window, int fbW, int fbH)
 	glViewport(0, 0, fbW, fbH);
 }
 
-
+//test
 bool loadShaders(GLuint& program)
 {
 	bool loadSuccess = true;
